@@ -11,7 +11,7 @@
 Installation sur Windows
 =
 
-- 1. Telecharger [Fake Crypto Generator](https://github.com/Atsuy0/Fake-Discord-Generator/archive/master.zip)
+- 1. Telecharger [Fake Crypto Generator](https://github.com/Atsuy0/Fake-Crypto-Generator/archive/master.zip)
 
 - 2. Installez Python depuis le Store Windows
 
